@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/pages/p2.html",
+      "/pages/p3.html",
+      "/pages/p1.html"
+    ]
+  },
+  {
+    "listing": "/pages/index.html",
+    "items": [
+      "/pages/p2.html",
+      "/pages/p3.html",
+      "/pages/p1.html"
+    ]
+  }
+]

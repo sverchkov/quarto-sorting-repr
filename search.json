@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto-sorting-repr",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\nB\n\n\n\n\n\n\n\n\n\n\n\n\n\nC\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/p3.html",
+    "href": "pages/p3.html",
+    "title": "B",
+    "section": "",
+    "text": "File p3"
+  },
+  {
+    "objectID": "pages/p2.html",
+    "href": "pages/p2.html",
+    "title": "A",
+    "section": "",
+    "text": "File p2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "pages/p1.html",
+    "href": "pages/p1.html",
+    "title": "C",
+    "section": "",
+    "text": "File p1"
+  },
+  {
+    "objectID": "pages/index.html",
+    "href": "pages/index.html",
+    "title": "Pages index",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\nA\n\n\n\n\n\n\n\n\n\n\n\n\n\nB\n\n\n\n\n\n\n\n\n\n\n\n\n\nC\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
