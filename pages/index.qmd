@@ -1,0 +1,10 @@
+---
+title: "Pages index"
+
+listing:
+    sort-ui: true
+    fields: [date, title]
+    contents:
+        - ./**.qmd
+        - "!./index.qmd"
+---

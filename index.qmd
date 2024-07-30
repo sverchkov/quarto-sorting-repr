@@ -1,0 +1,15 @@
+---
+title: "quarto-sorting-repr"
+
+listing:
+    sort-ui: true
+    sort: title
+    fields: [date, title]
+    contents:
+        - pages/**.qmd
+        - "!pages/index.qmd"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
